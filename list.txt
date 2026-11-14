@@ -42,7 +42,7 @@ FongMI线路.json|20261114|9.2K|https://gh-proxy.com/raw.githubusercontent.com//
 凯弟1线.json|20261114|20.9K|https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json
 潇洒.json|20261114|36.3K|https://9877.kstore.space/sun.json
 肥猫.json|20261114|15.8K|http://肥猫.net
-小虎斑.json|20261114|36.2K|http://hb.小虎斑.site:25252/仅供测试
+小虎斑.json|20261114|36.4K|http://hb.小虎斑.site:25252/仅供测试
 王二小3线.json|20261114|16.4K|http://tvbox.王二小放牛娃.top
+香雅情.json|20261114|21.1K|https://play.iptv365.org/香雅情/api.json
 X4少儿频道.json|20261102|19.2K|https://0.wudaozhe.net/5/tv少儿.json
-香雅情.json|20261102|21.1K|https://play.iptv365.org/香雅情/api.json
